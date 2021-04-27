@@ -21,6 +21,8 @@ $ minikube version
 minikube version: v1.11.0
 commit: 57e2f55f47effe9ce396cea42a1e0eb4f611ebbd
 
+# Minikube Dashboard
+ $ minikube dashboard
 # Run the Node app
 node index.js
 
